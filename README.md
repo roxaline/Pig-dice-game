@@ -51,3 +51,9 @@ These above, are the tools that i use to acheive my desires during this class, a
 Two playes enter their names, one player starts to play by clicking **Roll**,to roll the dice, each roll comes up with its score, and the summation is holded by the player where he/she clicks **Hold**. if any player rolls a **1** it is the other player's turn, vice-versa.
 
 The winner is announced when the total csore of one play is greater or equal too 100. and then after they start a new game or reset the current one. 
+## Technologies Used
+1. HTML5
+2. CSS
+3. README
+4. Javascript
+5. jQuery
