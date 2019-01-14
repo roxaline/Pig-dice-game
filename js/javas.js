@@ -1,3 +1,4 @@
+// Business logic
 var rolling = function() {
   return Math.floor(Math.random() * 6) + 1;
 }
@@ -22,7 +23,7 @@ Player.prototype.hold = function() {
   alert(this.playername + ", your held your score, your turn is over.");
 }
 Player.prototype.proGamer = function() {
-  if (this.totalscore == 100) {
+  if (this.totalscore >= 100) {
     alert(this.playername + ", you are Master Dicer!!");
   }
 }
