@@ -39,3 +39,9 @@ Player.prototype.newGame = function() {
   this.playername = ('');
 }
 ```
+## Setup/Installation Requirements
+* Ubuntu oparating system
+* Visual studio code
+* Github
+* Google chrome to display webpages
+* Bootstrap 
