@@ -64,6 +64,8 @@ if you want to do so, reach me at
 * phone cell **+250786421009**
 
 My encouragment , my motivation is from my own instict, my parents,my team mentor, my support from WeCode Moringa school.
+## Links
+If you want to check out my work just click *https://roxaline.github.io/Pig-dice-game/*
 ### License
 *This is my own work.*
 
