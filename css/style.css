@@ -125,10 +125,12 @@ li{
 .jumbo{
     border-color: white;
 }
+
 a{
     color: maroon;
 }
 .pig{
-    border-color: white;
- 
+    border-color: white;background-color: black;
+    padding-bottom: 0%;
+    color: white;
 }
